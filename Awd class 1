@@ -1,0 +1,37 @@
+using System;
+
+using System.Collections.Generic;
+
+using System.Linq;
+
+using System.Text;
+
+namespace practical2a
+
+{
+
+class Program
+
+{
+
+static void Main(string[] args)
+
+{
+
+int x = 100;
+
+object obj = x;
+
+int y = (int)obj;
+
+Console.WriteLine("Roll no. {12}, Name: aman ");
+
+Console.WriteLine("Original: {0}, Boxed: {1}, Unboxed: {2}", x, obj, y);
+
+Console.ReadKey();
+
+}
+
+}
+
+}
