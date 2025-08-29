@@ -35,3 +35,19 @@ Console.ReadKey();
 }
 
 }
+
+
+
+<Ad>
+
+<ImageUrl>~/Images/Coke.jpg</ImageUrl>
+
+<Impressions>1</Impressions>
+
+<NavigateUrl>https://www.coca-colacompany.com/</NavigateUrl>
+
+<AlternateText>Coke image is missing</AlternateText>
+
+<Keyword>Coke</Keyword>
+
+</Ad>
